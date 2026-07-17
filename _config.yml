@@ -51,6 +51,12 @@ sass:
 #
 #  *All described config keys below should be nested under the top-level
 #   `minima` key.*
+
+minima:
+  nav_pages:
+    - index.md
+    - home-server-group-meetings.md
+
 #
 # minima:
 #   Minima skin selection. Available skins are:
