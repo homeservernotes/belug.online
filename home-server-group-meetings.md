@@ -4,17 +4,15 @@ title: Home Server Group Meetings
 permalink: /home-server-group-meetings/
 ---
 
-This is the "Home Server Group Meetings" page — a placeholder for now, distinct from the "General Meetings" page.
+Home Server Group meetings are held on <a href="https://meet.korte.co/BELUG">Zoom</a> on the first and third Thursday of each month, starting at 7:00PM.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Next Meeting:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<ul>
+  <li><span id="next-meeting-date">calculating&hellip;</span> on <a href="https://meet.korte.co/BELUG">Zoom</a></li>
+</ul>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<script src="{{ '/js/next-meeting.js' | relative_url }}"></script>
+<script type="text/javascript">
+    renderNextRecurringMeeting("next-meeting-date", [{ weekday: 4, n: 1 }, { weekday: 4, n: 3 }], "7:00 PM");
+</script>
