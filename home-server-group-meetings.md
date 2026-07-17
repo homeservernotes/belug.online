@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home Server Group Meetings
+permalink: /home-server-group-meetings/
 ---
+
+This is the "Home Server Group Meetings" page — a placeholder for now, distinct from the "General Meetings" page.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
