@@ -9,7 +9,9 @@ We meet in-person at the [North Bellevue Community Center](https://parks.bellevu
 
 ### Next Meeting:
 
-<span id="next-meeting-date">calculating&hellip;</span>
+<ul>
+  <li><span id="next-meeting-date">calculating&hellip;</span> in person and on <a href="https://meet.korte.co/BELUG">Zoom</a></li>
+</ul>
 
 <script src="{{ '/js/next-meeting.js' | relative_url }}"></script>
 <script type="text/javascript">
