@@ -1,7 +1,10 @@
 <div class="nav-items">
+  {%- assign rendered_first = false -%}
   {%- for path in include.paths -%}
   {%- assign hyperpage = site.pages | where: "path", path | first -%}
-  {%- if hyperpage.title %}
+  {%- if hyperpage.title -%}
+  {%- if rendered_first %} | {% endif -%}
+  {%- assign rendered_first = true -%}
   <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
   {%- endif -%}
   {%- endfor %}
