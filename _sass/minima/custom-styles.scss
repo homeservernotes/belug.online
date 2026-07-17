@@ -64,6 +64,14 @@ a {
 
   .nav-item {
     margin-right: 0;
+    color: $link-base-color;
+
+    // ".site-nav .nav-item" outweighs the generic "a:hover" rule's
+    // specificity, so redeclare the hover invert here to keep it visible.
+    &:hover {
+      background-color: $link-base-color;
+      color: #fff;
+    }
 
     &:not(:last-child) {
       margin-right: 0;
