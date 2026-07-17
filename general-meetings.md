@@ -17,3 +17,7 @@ We meet in-person at the [North Bellevue Community Center](https://parks.bellevu
 <script type="text/javascript">
     renderNextMeeting("next-meeting-date");
 </script>
+
+<p><a href="https://parks.bellevuewa.gov/community-centers/north-bellevue-community-center">North Bellevue Community Center</a><br/>
+4063 148th Ave NE<br/>
+Bellevue, WA 98007 USA</p>
