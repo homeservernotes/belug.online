@@ -5,7 +5,7 @@
   {%- if hyperpage.title -%}
   {%- if rendered_first %} | {% endif -%}
   {%- assign rendered_first = true -%}
-  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
+  <a class="nav-item{% if page.url == hyperpage.url %} current{% endif %}" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
   {%- endif -%}
   {%- endfor %}
 </div>

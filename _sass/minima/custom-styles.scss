@@ -73,6 +73,12 @@ a {
       color: #fff;
     }
 
+    // Current page: same invert as hover, persistently applied.
+    &.current {
+      background-color: $link-base-color;
+      color: #fff;
+    }
+
     &:not(:last-child) {
       margin-right: 0;
     }
