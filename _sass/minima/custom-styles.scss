@@ -45,6 +45,13 @@ a {
   font-size: 2.5em;
   letter-spacing: normal;
   padding: 0.5em 0;
+
+  // Unlike nav links, the site title isn't a link on belug.us (plain
+  // text heading), so skip the blue-invert hover effect here too.
+  &:hover {
+    background-color: transparent;
+    color: inherit;
+  }
 }
 
 .site-nav {
