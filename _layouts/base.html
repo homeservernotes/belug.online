@@ -5,21 +5,25 @@
 
   <body>
 
-    {%- include header.html -%}
+    <div class="container">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+      {%- include header.html -%}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {% include github-comments.html %}
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+
+      <div class="page-content">
+        <div class="wrapper">
+          {% include github-comments.html %}
+        </div>
       </div>
+
+      {%- include footer.html -%}
+
     </div>
-
-    {%- include footer.html -%}
 
     {%- include sub-footer.html -%}
 
