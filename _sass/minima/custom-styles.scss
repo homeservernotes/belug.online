@@ -132,6 +132,15 @@ h4 {
   font-size: 1em;
 }
 
+// The theme adds margin-bottom here to separate an article from a
+// post-list/pagination section below it. Every page on this site is a
+// single standalone article with nothing below but the footer, so this
+// just stacks with .page-content's own bottom padding and pushes the
+// footer further down than belug.us's plain, unpadded-below <main>.
+.post-content {
+  margin-bottom: 0;
+}
+
 // Footer: single centered copyright line, like belug.us.
 .site-footer {
   border-top: none;
