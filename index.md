@@ -3,11 +3,11 @@ layout: page
 title: General Meetings
 ---
 
-<p>Welcome to the Bellevue Linux Users Group (BELUG) website.
+Welcome to the Bellevue Linux Users Group (BELUG) website.
 BELUG is dedicated to promoting an interest in
-and an understanding of <a href="http://www.linfo.org/linuxdef.html">Linux</a>
-and other <a href="http://www.linfo.org/free_software.html">free software</a>
-(New to Linux? Start <a href="http://www.linfo.org/newbies.html">here</a>)</p>
+and an understanding of [Linux](http://www.linfo.org/linuxdef.html)
+and other [free software](http://www.linfo.org/free_software.html)
+(New to Linux? Start [here](http://www.linfo.org/newbies.html))
 
 General meetings are held on the second Tuesday of each month, starting at 6:30PM.
 We meet in-person at the [North Bellevue Community Center](https://parks.bellevuewa.gov/community-centers/north-bellevue-community-center) in room D and on [Zoom](https://meet.korte.co/BELUG)
