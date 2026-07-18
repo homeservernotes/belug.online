@@ -2,6 +2,7 @@
 # ------------------
 
 title: Bellevue Linux Users Group
+url: "https://belug.online"
 
 # Keep post URLs date-based regardless of category, matching the
 # existing posts (Jekyll's default "date" style permalink otherwise
