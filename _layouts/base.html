@@ -15,11 +15,13 @@
         </div>
       </main>
 
+      {%- if page.github_comments_issueid and site.github_comments_repository %}
       <div class="page-content">
         <div class="wrapper">
           {% include github-comments.html %}
         </div>
       </div>
+      {%- endif %}
 
       {%- include footer.html -%}
 
