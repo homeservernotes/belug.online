@@ -27,6 +27,10 @@ permalink: /:year/:month/:day/:title.html
 # Set this to a github repository to be used to host comments.
 github_comments_repository:  dc25/myBlog-comments
 
+# GoatCounter analytics (privacy-friendly, no cookie banner needed).
+# Replace with your own endpoint after signing up at https://goatcounter.com
+goatcounter_url: "https://YOURCODE.goatcounter.com/count"
+
 # Build settings
 # --------------
 #

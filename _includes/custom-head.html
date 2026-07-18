@@ -8,3 +8,7 @@
   hamburger menu and social icons. If you re-enable the hamburger menu or add
   social_links to _config.yml, load the matching Font Awesome CSS here.
 {% endcomment %}
+
+{%- if site.goatcounter_url and site.goatcounter_url != "https://YOURCODE.goatcounter.com/count" -%}
+  <script data-goatcounter="{{ site.goatcounter_url }}" async src="//gc.zgo.at/count.js"></script>
+{%- endif -%}
