@@ -118,6 +118,13 @@ a {
   }
 }
 
+// FAQ questions (h4): belug.us doesn't override heading font-weight, so
+// its h4s render at the browser-default bold; ours are dimmed to 500
+// by the theme's heading rule, so restore full bold here.
+h4 {
+  font-weight: bold;
+}
+
 // Footer: single centered copyright line, like belug.us.
 .site-footer {
   border-top: none;
