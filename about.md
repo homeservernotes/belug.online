@@ -7,6 +7,24 @@ permalink: /about/
 <p>Bellevue Linux Users Group (BELUG) was established in early 2004 for the
 purpose of promoting the study and use of Linux and other free software in
 <a href="https://belug.us/bellevue.html">Bellevue, WA</a> and vicinity.</p>
+<p>Meetings have been consistently held since February 2004!</p>
+<p>Bellevue Linux Users Group (BELUG) general meetings are held on the second
+Tuesday of every month starting at 6:30PM. Meetings officially end at 8:30,
+but everyone is welcome to stay longer (and many do).</p>
+<p>Meetings are informal. Activities include short talks/presentations,
+discussing recent news about Linux and other free software, answering
+questions about almost anything related to computers, helping attendees
+install Linux, providing advice about how to study Linux, networking and
+exchanging job information.</p>
+<p>As is the case with Linux and other free software, the meetings are
+absolutely free. They are free both in a monetary sense (i.e., there are no
+dues or other charges) and with regard to use (i.e., a diversity of ideas,
+comments, suggestions and questions is most welcome).</p>
+<p>Everyone interested in Linux and&#47;or other free software is invited
+&#8211; including absolute beginners.</p>
+<p>Meeting locations and updates are posted to the main page,
+e-mail: <a href="mailto:bellevuelinux@gmail.com">bellevuelinux@gmail.com</a>
+We look forward to meeting you.</p>
 <p>Free software, which is generally the same as <em>open source software</em>, is
 software that is free both in a monetary sense and in that anyone is permitted
 to use it for any desired purpose, including studying, modifying, extending,
