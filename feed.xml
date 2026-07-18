@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://belug.online/feed.xml" rel="self" type="application/atom+xml" /><link href="https://belug.online/" rel="alternate" type="text/html" /><updated>2026-07-18T15:26:42-07:00</updated><id>https://belug.online/feed.xml</id><title type="html">Bellevue Linux Users Group</title><entry><title type="html">Meeting on 2026-07-16</title><link href="https://belug.online/2026/07/17/meeting-on-2026-07-16.html" rel="alternate" type="text/html" title="Meeting on 2026-07-16" /><published>2026-07-17T10:55:14-07:00</published><updated>2026-07-17T10:55:14-07:00</updated><id>https://belug.online/2026/07/17/meeting-on-2026-07-16</id><content type="html" xml:base="https://belug.online/2026/07/17/meeting-on-2026-07-16.html"><![CDATA[<h1 id="overview">Overview</h1>
+<p>3 people attended.</p>
+
+<h1 id="topics-discussed">Topics Discussed</h1>
+
+<h2 id="configuration-tools">Configuration Tools</h2>
+<ul>
+  <li><a href="https://github.com/dmbrownlee/demo-proxmox-terraform">Proxmox/Terraform Demo</a></li>
+</ul>
+
+<h2 id="personal-note-taking-tools">Personal Note Taking Tools</h2>
+<ul>
+  <li><a href="https://tiddlywiki.com/">Tiddlywiki</a></li>
+  <li><a href="https://obsidian.md/">Obsidian</a></li>
+</ul>
+
+<h2 id="universal-power-supply">Universal Power Supply</h2>
+<ul>
+  <li><a href="https://goldenmateenergy.com/collections/ups">Goldenmate UPS</a></li>
+  <li><a href="https://networkupstools.org/">Network UPS Tools (NUT)</a></li>
+  <li><a href="https://www.jeffgeerling.com/blog/2025/nut-on-my-pi-so-my-servers-dont-die/">Jeff Geerling’s NUT related blog post</a></li>
+</ul>
+
+<h2 id="source-code-hosting">Source Code Hosting</h2>
+<ul>
+  <li><a href="https://forgejo.org/">Forgejo (self-hosted lightweight software forge)</a></li>
+</ul>
+
+<h2 id="meeting-notetaking-tools">Meeting Notetaking Tools</h2>
+<ul>
+  <li><a href="https://meetily.ai/">Meetily - An AI Meeting Assistant &amp; Note Taker</a></li>
+</ul>]]></content><author><name></name></author><category term="home-server" /><summary type="html"><![CDATA[Overview 3 people attended.]]></summary></entry><entry><title type="html">Meeting on 2026-07-02</title><link href="https://belug.online/2026/07/03/meeting-on-2026-07-02.html" rel="alternate" type="text/html" title="Meeting on 2026-07-02" /><published>2026-07-03T11:00:47-07:00</published><updated>2026-07-03T11:00:47-07:00</updated><id>https://belug.online/2026/07/03/meeting-on-2026-07-02</id><content type="html" xml:base="https://belug.online/2026/07/03/meeting-on-2026-07-02.html"><![CDATA[<h1 id="overview">Overview</h1>
+<p>4 people attended.</p>
+
+<h1 id="topics-discussed">Topics Discussed</h1>
+
+<h2 id="cicd-tools">CI/CD Tools</h2>
+<ul>
+  <li><a href="https://github.com/fluxcd">Flux CD project</a></li>
+  <li><a href="https://argoproj.github.io/cd/">Argo CD</a></li>
+  <li><a href="https://helm.sh/">HELM (package manager)</a></li>
+</ul>
+
+<h2 id="configuration-tools">Configuration Tools</h2>
+<ul>
+  <li><a href="https://opentofu.org/">OpenTofu</a></li>
+  <li><a href="https://developer.hashicorp.com/terraform">Terraform</a></li>
+</ul>
+
+<h2 id="authentication-tools">Authentication Tools</h2>
+<ul>
+  <li><a href="https://www.keycloak.org/">KeyCloak (Open Source Identity and Access Management)</a></li>
+  <li><a href="https://ldap.com/">LDAP (Lightweight Directory Access Protocol)</a></li>
+  <li><a href="https://www.openldap.org/">OpenLDAP</a></li>
+  <li><a href="https://www.freeipa.org/">FreeIPA (Identity and Authentication for Linux)</a></li>
+  <li><a href="https://www.man7.org/linux/man-pages/man5/nsswitch.conf.5.html">nsswitch.conf (configuration file)</a></li>
+  <li><a href="https://man7.org/linux/man-pages/man1/getent.1.html">getent (command)</a></li>
+</ul>
+
+<h2 id="source-code-hosting">Source Code Hosting</h2>
+<ul>
+  <li><a href="https://forgejo.org/">Forgejo (self-hosted lightweight software forge)</a></li>
+</ul>
+
+<h2 id="hardware">Hardware</h2>
+<ul>
+  <li><a href="https://www.amazon.com/dp/B0GGZR42F5?ref=ppx_yo2ov_dt_b_fed_asin_title&amp;th=1">ACEMAGIC M5 Mini PC</a></li>
+  <li><a href="https://www.tomshardware.com/video-games/pc-gaming/asrock-bc-250-used-for-steam-machine-duty-gains-third-party-hack-to-unlock-all-40-cus-mining-board-now-has-more-cus-than-a-base-ps5">ASRock AMD BC-250</a></li>
+</ul>
+
+<h2 id="misc-software">Misc Software</h2>
+<ul>
+  <li><a href="https://man7.org/linux/man-pages/man1/top.1.html">top (process monitoring command)</a></li>
+  <li><a href="https://linuxcommandlibrary.com/man/btop">btop (process monitoring command)</a></li>
+</ul>
+
+<h2 id="networking">Networking</h2>
+<ul>
+  <li><a href="https://tailscale.com/docs/features/exit-nodes">Tailscale Exit Node</a></li>
+</ul>
+
+<h2 id="ai-agents">AI Agents</h2>
+<ul>
+  <li><a href="https://hermes-agent.org/">Hermes Agent</a></li>
+</ul>]]></content><author><name></name></author><category term="home-server" /><summary type="html"><![CDATA[Overview 4 people attended.]]></summary></entry><entry><title type="html">Meeting on 2026-06-18</title><link href="https://belug.online/2026/06/19/meeting-on-2026-06-18.html" rel="alternate" type="text/html" title="Meeting on 2026-06-18" /><published>2026-06-19T14:33:07-07:00</published><updated>2026-06-19T14:33:07-07:00</updated><id>https://belug.online/2026/06/19/meeting-on-2026-06-18</id><content type="html" xml:base="https://belug.online/2026/06/19/meeting-on-2026-06-18.html"><![CDATA[<h1 id="overview">Overview</h1>
+<p>3 people attended.</p>
+
+<h1 id="topics-discussed">Topics Discussed</h1>
+
+<h2 id="ai">AI</h2>
+<ul>
+  <li><a href="https://hermes-agent.nousresearch.com/">hermes agent</a></li>
+  <li><a href="https://openwebui.com/">openwebui.com</a></li>
+  <li><a href="https://ollama.com/">ollama</a></li>
+</ul>
+
+<h2 id="vibe-coding-a-full-mikrotik-network-management-platform-using-claude-ai">Vibe Coding a full Mikrotik network management platform using Claude AI:</h2>
+<ul>
+  <li><a href="https://www.balticnetworks.com/collections/mikrotik-top-products?gad_source=1&amp;gad_campaignid=23672835014&amp;gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD1ZSZlpvGtSuZPvXn9KSxEQ2oa24LIuhqby-CjgG2BuNy5ox1YE0XQaAqlcEALw_wcB">Mikrotik</a></li>
+  <li><a href="https://www.youtube.com/watch?v=NXUKyWIH90c">video</a></li>
+</ul>
+
+<h2 id="text-to-speech-utilities-for-meeting-notes-transcriptions">Text to Speech Utilities (for meeting notes transcriptions)</h2>
+<ul>
+  <li><a href="https://jitsi.support/developer/setup-jitsi-whispercpp-transcriptions/">whisper.cpp</a></li>
+</ul>
+
+<h2 id="home-lab-software">Home Lab Software</h2>
+<ul>
+  <li><a href="https://github.com/Limine-Bootloader/Limine">Limine Bootloader</a></li>
+</ul>
+
+<h2 id="home-lab-hardware">Home Lab Hardware</h2>
+<ul>
+  <li><a href="https://www.kickstarter.com/projects/sierro/sierro-the-compact-home-backup-that-fits-anywhere">sierro home battery</a></li>
+</ul>]]></content><author><name></name></author><category term="home-server" /><summary type="html"><![CDATA[Overview 3 people attended.]]></summary></entry><entry><title type="html">Meeting on 2026-06-04</title><link href="https://belug.online/2026/06/06/meeting-on-2026-06-04.html" rel="alternate" type="text/html" title="Meeting on 2026-06-04" /><published>2026-06-06T12:12:21-07:00</published><updated>2026-06-06T12:12:21-07:00</updated><id>https://belug.online/2026/06/06/meeting-on-2026-06-04</id><content type="html" xml:base="https://belug.online/2026/06/06/meeting-on-2026-06-04.html"><![CDATA[<h1 id="overview">Overview</h1>
+<p>3 people attended.</p>
+
+<h1 id="topics-discussed">Topics Discussed</h1>
+
+<h2 id="personal-location-tracking">Personal Location Tracking</h2>
+<ul>
+  <li><a href="https://dawarich.app/">dawarich</a></li>
+  <li><a href="https://colota.app/">colata</a></li>
+  <li><a href="https://www.dedicatedcode.com/projects/reitti/latest/">reiti</a></li>
+</ul>
+
+<h2 id="hardware">Hardware</h2>
+<ul>
+  <li><a href="https://www.dfrobot.com/product-2989.html">LattePanda IOTA Palm-sized x86 Single Board Computer</a></li>
+  <li><a href="https://shop.zimaspace.com/collections/zima-master-kits/products/zimaboard-2-mini-nas-kit-for-home-server">ZimaBoard 2 Mini Nas Kit for Home Server &amp; Personal Cloud</a></li>
+  <li><a href="https://goldenmateenergy.com/products/600va-360w-lifepo4-ups-wall-mount">goldenmate energy ups</a></li>
+</ul>
+
+<h2 id="reviews">Reviews</h2>
+<ul>
+  <li><a href="https://www.servethehome.com/">serve the home</a></li>
+  <li><a href="https://www.jeffgeerling.com/">Jeff Geerling</a></li>
+</ul>
+
+<h2 id="ai">AI</h2>
+<ul>
+  <li><a href="https://hermes-agent.nousresearch.com/">Hermes Agent</a></li>
+</ul>
+
+<h2 id="services">Services</h2>
+<ul>
+  <li><a href="https://filebrowser.org/">FileBrowser</a></li>
+</ul>
+
+<h2 id="frameworks">Frameworks</h2>
+<ul>
+  <li><a href="https://neil.computer/notes/baremetal-vs-proxmox-vs-esxi-performance-geekbench-scores/">Baremetal vs Proxmox performance comparison</a></li>
+</ul>]]></content><author><name></name></author><category term="home-server" /><summary type="html"><![CDATA[Overview 3 people attended.]]></summary></entry></feed>
