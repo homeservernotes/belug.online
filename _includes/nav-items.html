@@ -1,9 +1,9 @@
-<div class="nav-items">
+<div class="nav-items" id="nav-menu">
   {%- assign rendered_first = false -%}
   {%- for path in include.paths -%}
   {%- assign hyperpage = site.pages | where: "path", path | first -%}
   {%- if hyperpage.title -%}
-  {%- if rendered_first %} | {% endif -%}
+  {%- if rendered_first %}<span aria-hidden="true"> | </span>{% endif -%}
   {%- assign rendered_first = true -%}
   <a class="nav-item{% if page.url == hyperpage.url %} current{% endif %}" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
   {%- endif -%}
