@@ -6,7 +6,7 @@ permalink: /home-server-group-meetings/
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-Home Server Group meetings are held on <a href="https://meet.korte.co/BELUG">Zoom</a> on the first and third Thursday of each month, starting at 7:00PM.
+Home Server Group meetings are held on [Zoom](https://meet.korte.co/BELUG) on the first and third Thursday of each month, starting at 7:00PM.
 
 ### Next Meeting:
 
