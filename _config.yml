@@ -3,6 +3,11 @@
 
 title: Bellevue Linux Users Group
 
+# Keep post URLs date-based regardless of category, matching the
+# existing posts (Jekyll's default "date" style permalink otherwise
+# inserts a /:categories/ segment for any post that has one set).
+permalink: /:year/:month/:day/:title.html
+
 #
 # title: Your awesome title
 #
