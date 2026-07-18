@@ -4,7 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-<h3 id="frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</h3>
 <h4 id="q-why-was-belug-formed-when-there-was-already-a-linux-users-group-in-nearby-seattle">Q: Why was BELUG formed when there was already a Linux users group in nearby Seattle?</h4>
 <p>A: One reason is that Bellevue is a large and growing city, and it is one of the leading technology centers of the U.S. Pacific Northwest. With thousands of its residents and workers already using or interested in Linux, Bellevue can easily support a Linux users group (LUG) of its own. Moreover, some people living in the Bellevue area find it difficult or inconvenient to go to Seattle because of the still rather primitive transportation system in this region.</p>
 <p>Another reason is that BELUG (Bellevue Linux Users Group) has a somewhat different character than other groups in the region, and thus it increases the range of choices for people interested in joining a LUG.</p>
