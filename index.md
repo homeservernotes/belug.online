@@ -26,3 +26,8 @@ We meet in-person at the [North Bellevue Community Center](https://parks.bellevu
 [North Bellevue Community Center](https://parks.bellevuewa.gov/community-centers/north-bellevue-community-center)  
 4063 148th Ave NE  
 Bellevue, WA 98007 USA
+
+### Meeting Notes
+
+Subscribe to the [General Meetings RSS feed]({{ '/feed-general.xml' | relative_url }}).
+Notes will appear here as they are published.

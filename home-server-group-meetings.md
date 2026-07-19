@@ -17,7 +17,9 @@ Home Server Group meetings are held on [Zoom](https://meet.korte.co/BELUG) on th
     renderNextRecurringMeeting("next-meeting-date", [{ weekday: 4, n: 1 }, { weekday: 4, n: 3 }], "7:00 PM");
 </script>
 
-### Past Meeting Notes:
+### Past Meeting Notes
+
+Subscribe to the [Home Server Group Meetings RSS feed]({{ '/feed-home-server.xml' | relative_url }}).
 
 <ul>
   {%- for post in site.categories["home-server"] -%}

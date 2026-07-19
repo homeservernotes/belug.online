@@ -28,7 +28,6 @@ permalink: /:year/:month/:day/:title.html
 github_comments_repository:  dc25/myBlog-comments
 
 # GoatCounter analytics (privacy-friendly, no cookie banner needed).
-# Replace with your own endpoint after signing up at https://goatcounter.com
 goatcounter_url: "https://belugonline.goatcounter.com/count"
 
 # Build settings
