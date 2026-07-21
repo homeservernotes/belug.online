@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+Welcome to the Bellevue Linux Users Group (BELUG) website.
+BELUG is dedicated to promoting an interest in
+and an understanding of [Linux](http://www.linfo.org/linuxdef.html)
+and other [free software](http://www.linfo.org/free_software.html)
+(New to Linux? Start [here](http://www.linfo.org/newbies.html))
+
 Bellevue Linux Users Group (BELUG) was established in early 2004 for the
 purpose of promoting the study and use of Linux and other free software in
 [Bellevue, WA](https://belug.us/bellevue.html) and vicinity.
