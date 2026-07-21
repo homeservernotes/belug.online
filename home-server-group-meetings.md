@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Server Group Meetings
+title: Home Server Group Meeting
 permalink: /home-server-group-meetings/
 ---
 

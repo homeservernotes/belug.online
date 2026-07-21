@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Meetings
+title: General Meeting
 ---
 
 General meetings are held on the second Tuesday of each month, starting at 6:30PM.
